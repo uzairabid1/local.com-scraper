@@ -1,0 +1,23 @@
+{
+  "name": "airbnbscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^15.5.0",
+    "puppeteer-autoscroll-down": "^1.1.1",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
